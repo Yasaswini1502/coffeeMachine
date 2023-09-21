@@ -82,6 +82,7 @@ public class CoffeeMachine {
         int coffeeNeed = 16;
         int cupsNeed = 1;
         int cost = 4;
+        //TEST CHANGE
 
         makeCoffee(waterNeed, milkNeed, coffeeNeed, cupsNeed, cost);
     }
